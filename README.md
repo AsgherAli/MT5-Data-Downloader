@@ -15,3 +15,5 @@ A simple application to download free EOD OHLCV data from MT5.
 4. To find the list of all supported symbols. You can ask your broker directly or run the following script. [script](https://github.com/AsgherAli/MT5-Data-Downloader/blob/main/symbols.py) to fetch it via MT5.
 
 ![Data](https://user-images.githubusercontent.com/35127781/191589700-88e883a0-4bdc-45d1-9059-50f039a5e1fe.PNG)
+
+![data2](https://user-images.githubusercontent.com/35127781/191589757-3c7cc6b9-f613-412f-b3e4-3b0f101896b8.PNG)
